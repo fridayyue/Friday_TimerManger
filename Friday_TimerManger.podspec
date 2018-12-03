@@ -7,7 +7,6 @@
 #
 
 Pod::Spec.new do |s|
-	s.license             = "MIT (example)"
 	s.name                = "Friday_TimerManger"
   s.version             = "0.0.1"
   s.summary             = "Timer Manger for iOS"
